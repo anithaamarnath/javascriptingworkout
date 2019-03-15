@@ -1,0 +1,3 @@
+var pizzaToppings=['tomota sauce','cheese','pepperoni'];
+console.loo(pizzaToppings);
+
